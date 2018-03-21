@@ -1,2 +1,2 @@
-# codechef
-Code Snippets
+# Codechef
+C++ code snippets
